@@ -47,11 +47,22 @@
 
   <br/>
   
-<a href="https://github.com/sadaab2784/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sadaab2784&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="sadaab2784" /></a>
+<a href="https://github.com/sadaab2784/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=sadaab2784&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="sadaab2784" />
+</a>
 
-<a href="https://github.com/sadaab2784/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadaab2784&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="sadaab2784" /></a>
+<a href="https://github.com/sadaab2784/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadaab2784&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="sadaab2784" />
+</a>
+
+ <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 
 <br/>
+<br/>
+
+
+
+
 
 ## Connect with me
 
