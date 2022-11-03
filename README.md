@@ -60,6 +60,5 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/md-sadaab-nazmi-788b69232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-sadaab-nazmi-788b69232" height="30" width="40" /></a>
-
 <a href="https://www.youtube.com/channel/UCq2Mw79_0xKOTTtAuBakSsA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ali sadaab" height="30" width="40" /></a>
 </p>
