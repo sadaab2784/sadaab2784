@@ -1,4 +1,5 @@
-![banner](https://user-images.githubusercontent.com/106314415/203251654-1ebaae76-beeb-437c-b71e-43d3faa70faf.gif)
+![github-header-image](https://user-images.githubusercontent.com/106314415/203254424-4003db93-5959-4d9c-a574-906f87db362e.png)
+
 
 <h1 align="center">Hi 👋, I'm Md Sadaab Nazmi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
