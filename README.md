@@ -12,11 +12,9 @@
 
 - 🌱 I’m currently learning **React, Redux**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
 - 🤝 I’m looking for help with **ReactJs Developer Jobs and also Nodejs Developer Jobs**
 
-- 💬 Ask me about **Redux,Javascript, Java, HTML, CSS**
+- 💬 Ask me about **HTML, CSS, Javascript, NodeJs, MongoDB, ReactJs**
 
 - 📫 How to reach me **ali.sadaab825313@gmail.com**
 
