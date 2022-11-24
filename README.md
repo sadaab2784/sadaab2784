@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React, Redux**
 
-- 🤝 I’m looking for help with **ReactJs Developer Jobs and also Nodejs Developer Jobs**
+- 🤝 I’m looking for help with **ReactJs Developer and also NodeJs Developer Jobs**
 
 - 💬 Ask me about **HTML, CSS, Javascript, NodeJs, MongoDB, ReactJs**
 
