@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React, Redux**
 
-- 💬 Ask me about **HTML, CSS, Javascript, NodeJs, MongoDB, ReactJs**
+- 💬 Ask me about Anything ! I am happy to help.
 
 - 📫 How to reach me **ali.sadaab825313@gmail.com**
 
@@ -45,7 +45,6 @@
 
 ## Github Contribution Streak 🔥 
 <br>
-
 <p align='center'><img src="http://github-readme-streak-stats.herokuapp.com?user=sadaab2784&theme=radical&date_format=M%20j%5B%2C%20Y%5D"></p>
 <!-- (https://git.io/streak-stats) -->
 <hr>
