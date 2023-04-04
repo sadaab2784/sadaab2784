@@ -7,10 +7,12 @@
 <hr>
 
 ## 🙋‍♂️ About Me
+<!-- 
+- 🔭 I’m currently working with **React Js** -->
 
-- 🔭 I’m currently working with **React Js**
+- 🌱 I’m currently learning "Competitive Programming"
 
-- 🌱 I’m currently learning **React, Redux**
+- 👯 𝙸’m looking to collaborate on "Web Development"
 
 - 💬 Ask me about Anything ! I am happy to help.
 
