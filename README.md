@@ -7,8 +7,7 @@
 <hr>
 
 ## 🙋‍♂️ About Me
-<!-- 
-- 🔭 I’m currently working with **Kotlin** -->
+- 🔭 I’m currently working with **Kotlin**
 
 - 🌱 I’m currently learning "Competitive Programming"
 
